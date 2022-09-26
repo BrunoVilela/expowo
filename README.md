@@ -65,7 +65,7 @@ library(expowo)
 ```
 
 ## Usage
-
+ 
 The package’s four major functions (`powoGenera`, `powoSpecies`,
 `megaGen`, and `toptenGen`) require only the name of the target family
 (or a vector with multiple family names) and the associated specific URI
